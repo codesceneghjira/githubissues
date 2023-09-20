@@ -15,13 +15,19 @@ const Container = styled(AbsoluteFill)`
 	justify-content: center;
 	align-items: center;
 `;
-
+const Row = styled.div`
+	flex-direction: row;
+	display: flex;
+`;
 const Left = styled.div``;
 
 const Right = styled.div`
 	padding-right: 100px;
 `;
-
+const Row = styled.div`
+	flex-direction: row;
+	display: flex;
+`;
 const Spacer = styled.div`
 	width: 500px;
 `;
