@@ -29,7 +29,7 @@ const Row = styled.div`
 	flex-direction: row;
 	flex: 1;
 `;
-
+//testings
 const Core = styled.div<{
 	x: number;
 	y: number;
